@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EXA-W005\\source\\repos\\Server\\Server\\Server.csproj": {}
+    "C:\\Users\\sangh\\Desktop\\Projects\\C#Server\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EXA-W005\\source\\repos\\Server\\Server\\Server.csproj": {
+    "C:\\Users\\sangh\\Desktop\\Projects\\C#Server\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EXA-W005\\source\\repos\\Server\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\sangh\\Desktop\\Projects\\C#Server\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\EXA-W005\\source\\repos\\Server\\Server\\Server.csproj",
-        "packagesPath": "C:\\Users\\EXA-W005\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EXA-W005\\source\\repos\\Server\\Server\\obj\\",
+        "projectPath": "C:\\Users\\sangh\\Desktop\\Projects\\C#Server\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\sangh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sangh\\Desktop\\Projects\\C#Server\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EXA-W005\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sangh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
